@@ -1,0 +1,16 @@
+{
+  "name": "@supagrate/demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "“Valentin <valentin@whatdafox.com> (https://twitter.com/valentinprngd)",
+  "license": "MIT",
+  "dependencies": {
+    "supabase": "^1.100.1",
+    "supagrate": "file:../cli"
+  }
+}
