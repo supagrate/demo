@@ -6,7 +6,7 @@
   "scripts": {
     "migrate:up": "supagrate migrate up",
     "migrate:down": "supagrate migrate down",
-    "seed:apply": "supagrate seed apply",
+    "seed:apply": "supagrate seed apply insert_users",
     "status": "supagrate status"
   },
   "keywords": [],
